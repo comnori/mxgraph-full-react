@@ -18,7 +18,7 @@ export default function useScript(src) {
           // Create script
           script = document.createElement("script");
           script.src = src;
-          script.async = true;
+          script.async = false;
           script.setAttribute("data-status", "loading");
           // Add script to document body
           document.body.appendChild(script);
