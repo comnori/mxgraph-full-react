@@ -31,4 +31,5 @@ window.STENCIL_PATH = "/mxgraphEditor/stencils";
 window.IMAGE_PATH = "/mxgraphEditor/images";
 window.STYLE_PATH = "/mxgraphEditor/styles";
 window.CSS_PATH = "/mxgraphEditor/styles";
+window.OPEN_FORM = "/mxgraphEditor/open.html";
 window.mxLanguages = "en";
